@@ -1,7 +1,7 @@
 import torch
 import numpy as np
 from transformers import AutoTokenizer, AutoModel
-from Bio import SeqIO # Biopython for reading FASTA files
+from Bio import SeqIO 
 import matplotlib.pyplot as plt
 import seaborn as sns
 
